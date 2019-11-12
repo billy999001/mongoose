@@ -45,7 +45,7 @@
     "jade": "0.26.3",
     "lodash": "4.16.6",
     "markdown": "0.3.1",
-    "marked": "0.3.6",
+    "marked": "0.7.0",
     "mocha": "3.2.0",
     "mongoose-long": "0.1.1",
     "mongodb-topology-manager": "1.0.11",
